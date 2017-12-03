@@ -15,9 +15,9 @@ body{
 #namecard{
   z-index:1;
   position:absolute;
-  background:lightgrey;
-  width:200px;
-  height:100px;
+  background:yellow;
+  width:500px;
+  height:400px;
   padding-top:1%;
   right:5%;
   bottom:10px;
