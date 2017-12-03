@@ -58,7 +58,7 @@ body{
 /*   border-bottom:2px solid black; */
   text-align:right;
   margin-right:50px;
-  margn-top:10px;
+  margin-top:10px;
   font-size:25px
 }
 .right{
@@ -82,11 +82,11 @@ body{
   position:absolute;
   right:0;
   bottom:0;
-  podding:10px;
+  padding:10px;
   border:1px solid black;
   background:black;
   color:white;
-  test-align:center;
+  text-align:center;
   
 
 }
